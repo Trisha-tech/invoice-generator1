@@ -7,13 +7,16 @@ An Invoice Generator project built with React and TailwindCSS. Add items, quanti
 
 ### Live Demo
 
+https://invoice-generator1.onrender.com
+
+### Demo Video
 
 
-### Screenshots
 
-<img src="https://imgur.com/rjisRPZ.jpg" style="max-width: 100px; width: 100%; height: auto;">
-<img src="https://imgur.com/vuiKcrK.jpg" style="max-width: 100px;width: 100%; height: auto;">
-<img src="https://imgur.com/bXNiAHT.jpg" style="max-width: 100px;width: 100%; height: auto;">
+https://github.com/user-attachments/assets/2c6e5415-e973-4a4a-92ff-9bb5200b0269
+
+
+
 
 ### Tools
 
