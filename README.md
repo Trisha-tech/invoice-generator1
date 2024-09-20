@@ -29,11 +29,11 @@ https://github.com/user-attachments/assets/2c6e5415-e973-4a4a-92ff-9bb5200b0269
 ### Instalation
 
 ```
-git clone 
+git clone https://github.com/Trisha-tech/invoice-generator1.git
 
 npm install
 
-npm start / npm run build
+npm start
 ```
 
 
