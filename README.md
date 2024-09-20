@@ -33,6 +33,4 @@ npm install
 npm start / npm run build
 ```
 
-### Meta
 
-Hourmeng Khy
